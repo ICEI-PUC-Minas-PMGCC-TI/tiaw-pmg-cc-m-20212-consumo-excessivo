@@ -11,25 +11,45 @@
 Luis Cláudio é um caminhoneiro que ama passar tempo com sua família e amigos, porém, nem sempre isso é possível, pois a sua renda mensal não está sendo suficiente para cumprir com seus compromissos. Então, para realizar seu sonho de fazer um transplante capilar, precisa aprender a organizar seus recursos para melhorar sua vida. 
 
 > Persona:
+
 > ![Luis Persona](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/master/Documentacao/images/Luis_Persona.png)
 
 > Mapa de Empatia
+
 > ![Luis Mapa de Empatia](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/master/Documentacao/images/Luis_Mapa_de_Empatia.png)
 
-> Enumere e detalhe as personas da sua solução. Para
-> tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-> Lembre-se que você deve ser enumerar e descrever precisamente e
-> personalizada todos os clientes ideais que sua solução almeja.
+
+Xeyla Texeira é uma universitária de 19 anos de idade que procura conseguir seu primeiro estágio para conseguir ajudar sua família. Ela sente que existe uma falta de retorno em seus esforços, devido a isso cobra de si mesma um maior empenho, o que acaba causando grande desgaste físico e mental. 
+
+> Persona:
+
+> ![Xeyla Persona](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/master/Documentacao/images/Xeyla_Persona.png)
+
+> Mapa de Empatia
+
+> ![Xeyla Mapa de Empatia](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/master/Documentacao/images/Xeyla_Mapa_de_Empatia.png)
+
+
+João Andrade tem 27 anos e é freelancer. Ele usa seu tempo livre para ver lives na Twitch, e também faz lives nas horas vagas. Atualmente namorando, está estudando design gráfico para ter uma melhor formação acadêmica, com o sonho de se casar e ter uma renda estável.
+
+> Persona:
+
+> ![Joao Persona](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/master/Documentacao/images/Joao_Persona.png)
+
+> Mapa de Empatia
+
+> ![Joao Mapa de Empatia](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/master/Documentacao/images/Joao_Mapa_de_Empatia.png)
+
+
+Carolina da Silva é uma advogada trabalhista de 26 anos de idade que gosta de usar seu tempo livre para frequentar festas, ler e fazer compras com suas amigas. Ela deseja se mudar da casa da sua mãe, além de ter mais poder aquisitivo, porém, não é capaz de economizar dinheiro o bastante para realizar esses objetivos pois está sempre gastando para se manter a par com as atualizações da moda.
+
+> Persona:
+
+> ![Carolina Persona](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/master/Documentacao/images/Carolina_Persona.png)
+
+> Mapa de Empatia
+
+> ![Carolina Mapa de Empatia](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/master/Documentacao/images/Carolina_Mapa_de_Empatia.png)
 
 ## Histórias de Usuários
 
