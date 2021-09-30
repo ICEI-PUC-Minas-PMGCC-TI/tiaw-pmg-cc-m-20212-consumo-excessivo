@@ -53,17 +53,10 @@ Em base de nossas personas, podemos ver as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-| Luis Claudio       | Quero ter renda suficiente para o  | Para poder passar tempo com minha      |
-|                    | mês todo                           | familia                                |
-|--------------------|------------------------------------|----------------------------------------|
-| Xeyla Texeira      | Quero conseguir um emprego         | Conseguir ajudar a familia e diminuir  |
-|                    | estável e bem remunerado           | a sensação de autocobrança             |
-|--------------------|------------------------------------|----------------------------------------|
-| João Andrade       | Quero ter uma renda estável        | Para morar junto com a namorada e se   |
-|                    |                                    | casar                                  |
-|--------------------|------------------------------------|----------------------------------------|
-| Carolina da Silva  | Quero economizar dinheiro          | Me mudar da casa da minha mãe e        |
-|                    |                                    | comprar tudo o que desejo              |
+| Luis Claudio       | Quero ter renda suficiente para o mês todo | Para poder passar tempo com minha familia     |
+| Xeyla Texeira      | Quero conseguir um emprego estável e bem remunerado         | Conseguir ajudar a familia e diminuir a sensação de autocobrança |
+| João Andrade       | Quero ter uma renda estável        | Para morar junto com a namorada e se casar   |
+| Carolina da Silva  | Quero economizar dinheiro          | Me mudar da casa da minha mãe e comprar tudo o que desejo       |
 
 ## Requisitos
 
@@ -73,22 +66,12 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais sobre 
 
 |ID    | Descrição do Requisito                  | Prioridade |
 |------|-----------------------------------------|------------|
-|RF-001| Permitir que o usuário cadastre uma     | ALTA       |
-|      | conta                                   |            |
-|------|-----------------------------------------|------------| 
-|RF-002| Emitir um relatório de tarefas no mês   | ALTA       |
-|------|-----------------------------------------|------------| 
-|RF-003| Enviar um relatório ao usuário baseado  | ALTA       |
-|      | nas informações fornecidas              |            |
-|------|-----------------------------------------|------------| 
-|RF-004| Recomendações para otimizar os gastos   | MÉDIA      |
-|      | do usuário                              |            |
-|------|-----------------------------------------|------------| 
-|RF-005| Garantir uma experiência anônima        | MÉDIA      |
-|------|-----------------------------------------|------------| 
-|RF-006| Apresentar recomendações de conteúdo    | BAIXA      |
-|      | externo para auxiliar na geração        |            |
-|      | de renda                                |            |
+|RF-001| Permitir que o usuário cadastre uma conta    | ALTA       | 
+|RF-002| Emitir um relatório de tarefas no mês   | ALTA       | 
+|RF-003| Enviar um relatório ao usuário baseado nas informações fornecidas    | ALTA       |
+|RF-004| Recomendações para otimizar os gastos do usuário | MÉDIA      |
+|RF-005| Garantir uma experiência anônima        | MÉDIA      | 
+|RF-006| Apresentar recomendações de conteúdo externo para auxiliar na geração  de renda | BAIXA      |
 
 
 ### Requisitos não Funcionais
@@ -96,12 +79,8 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais sobre 
 |ID     | Descrição do Requisito                  | Prioridade |
 |-------|-----------------------------------------|------------|
 |RNF-001| Site compatível com vários navegadores  | ALTA       | 
-|-------|-----------------------------------------|------------|
-|RNF-002| Compatível com Desktop, Tablets e Mobile| ALTA       |
-|       | (completamente responsivo)              |            |
-|-------|-----------------------------------------|------------|
+|RNF-002| Compatível com Desktop, Tablets e Mobile (completamente responsivo) | ALTA       |
 |RNF-003| O site deverá ser intuitivo e didático  | MÉDIA      |
-|-------|-----------------------------------------|------------|
 |RNF-004| O site deverá ser de fácil acesso       | Baixa      |
 
 ## Restrições
@@ -111,8 +90,6 @@ Os seguintes itens na tabela abaixo, servem para limitar a execução do projeto
 |ID   | Restrição                                                            |
 |-----|----------------------------------------------------------------------|
 |RE-01| O projeto deverá ser entregue até o final do semestre letivo         |
-|-----|----------------------------------------------------------------------|
 |RE-02| A aplicação devera se limitar apenas a tecnologias basicas Front End |
-|-----|----------------------------------------------------------------------|
 |RE-03| A equipe não pode terceirizar a confecção do trabalho                |
 
