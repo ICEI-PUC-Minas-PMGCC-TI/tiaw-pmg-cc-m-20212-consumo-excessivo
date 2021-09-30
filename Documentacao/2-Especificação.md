@@ -8,15 +8,13 @@
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
-se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
+Luis Cláudio é um caminhoneiro que ama passar tempo com sua família e amigos, porém, nem sempre isso é possível, pois a sua renda mensal não está sendo suficiente para cumprir com seus compromissos. Então, para realizar seu sonho de fazer um transplante capilar, precisa aprender a organizar seus recursos para melhorar sua vida. 
 
-![Luis Mapa de Empatia](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/master/Documentacao/images/Luis_Mapa_de_Empatia.png)
-- [Rock Content](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/master/Documentacao/images/Luis_Mapa_de_Empatia.png)
+> Persona:
+> ![Luis Persona](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/master/Documentacao/images/Luis_Persona.png)
 
+> Mapa de Empatia
+> ![Luis Mapa de Empatia](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/master/Documentacao/images/Luis_Mapa_de_Empatia.png)
 
 > Enumere e detalhe as personas da sua solução. Para
 > tanto, baseie-se tanto nos documentos disponibilizados na disciplina
