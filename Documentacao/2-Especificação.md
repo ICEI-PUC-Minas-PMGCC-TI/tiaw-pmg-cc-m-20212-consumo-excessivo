@@ -1,10 +1,6 @@
 # Especificações Do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a></span>
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Na especificação do projeto abordaremos sobre alguns detalhes essencias do nosso projeto, quanto a seus usuarios e restrições de plataforma. Para compreende melhor o publico que visamos atender realizamos uma pesquisa qualitativa, para entendermos as carencias e as dores do público. Então, juntamente a ferramenta Miro, fora a criação de personas juntamente com seus mapas de empatia.
 
 ## Personas
 
@@ -53,74 +49,70 @@ Carolina da Silva é uma advogada trabalhista de 26 anos de idade que gosta de u
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Em base de nossas personas, podemos ver as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+| Luis Claudio       | Quero ter renda suficiente para o  | Para poder passar tempo com minha      |
+|                    | mês todo                           | familia                                |
+|--------------------|------------------------------------|----------------------------------------|
+| Xeyla Texeira      | Quero conseguir um emprego         | Conseguir ajudar a familia e diminuir  |
+|                    | estável e bem remunerado           | a sensação de autocobrança             |
+|--------------------|------------------------------------|----------------------------------------|
+| João Andrade       | Quero ter uma renda estável        | Para morar junto com a namorada e se   |
+|                    |                                    | casar                                  |
+|--------------------|------------------------------------|----------------------------------------|
+| Carolina da Silva  | Quero economizar dinheiro          | Me mudar da casa da minha mãe e        |
+|                    |                                    | comprar tudo o que desejo              |
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+As tabelas a seguir apresentam os requisitos funcionais e não funcionais sobre o escopo do projeto.
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID    | Descrição do Requisito                  | Prioridade |
+|------|-----------------------------------------|------------|
+|RF-001| Permitir que o usuário cadastre uma     | ALTA       |
+|      | conta                                   |            |
+|------|-----------------------------------------|------------| 
+|RF-002| Emitir um relatório de tarefas no mês   | ALTA       |
+|------|-----------------------------------------|------------| 
+|RF-003| Enviar um relatório ao usuário baseado  | ALTA       |
+|      | nas informações fornecidas              |            |
+|------|-----------------------------------------|------------| 
+|RF-004| Recomendações para otimizar os gastos   | MÉDIA      |
+|      | do usuário                              |            |
+|------|-----------------------------------------|------------| 
+|RF-005| Garantir uma experiência anônima        | MÉDIA      |
+|------|-----------------------------------------|------------| 
+|RF-006| Apresentar recomendações de conteúdo    | BAIXA      |
+|      | externo para auxiliar na geração        |            |
+|      | de renda                                |            |
 
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais
->   (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais
->   (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|ID     | Descrição do Requisito                  | Prioridade |
+|-------|-----------------------------------------|------------|
+|RNF-001| Site compatível com vários navegadores  | ALTA       | 
+|-------|-----------------------------------------|------------|
+|RNF-002| Compatível com Desktop, Tablets e Mobile| ALTA       |
+|       | (completamente responsivo)              |            |
+|-------|-----------------------------------------|------------|
+|RNF-003| O site deverá ser intuitivo e didático  | MÉDIA      |
+|-------|-----------------------------------------|------------|
+|RNF-004| O site deverá ser de fácil acesso       | Baixa      |
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+Os seguintes itens na tabela abaixo, servem para limitar a execução do projeto e são tidos como obrigações quanto ao desenvolvimento do projeto.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|ID   | Restrição                                                            |
+|-----|----------------------------------------------------------------------|
+|RE-01| O projeto deverá ser entregue até o final do semestre letivo         |
+|-----|----------------------------------------------------------------------|
+|RE-02| A aplicação devera se limitar apenas a tecnologias basicas Front End |
+|-----|----------------------------------------------------------------------|
+|RE-03| A equipe não pode terceirizar a confecção do trabalho                |
 
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
