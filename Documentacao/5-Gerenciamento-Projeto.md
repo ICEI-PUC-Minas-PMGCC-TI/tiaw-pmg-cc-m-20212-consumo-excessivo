@@ -10,12 +10,12 @@ Nas semanas seguintes demos progresso na continuação do processo, começamos c
 
 Na sexta semana dividimos o grupo em duas partes, onde os seguintes membros ficaram responsáveis pela apresentação e criação do wireframe:
 
-1- Bruno Mello(wireframe)
-2- Wellington Rocha(wireframe)
-3- Dã (wireframe)
-4- João (wireframe)
-5- Daniel (apresentação)
-6- Eduardo (apresentação)
+>1- Bruno Mello(wireframe)
+>2- Wellington Rocha(wireframe)
+>3- Dã (wireframe)
+>4- João (wireframe)
+>5- Daniel (apresentação)
+>6- Eduardo (apresentação)
 
 ## Processo
 
