@@ -14,7 +14,7 @@ Para montagem do planejamento e dos artefatos, wireframes, fluxos do site e orga
  
 A imagem abaixo mostra o processo de fluxo do usuário para chegar na solução visada pelo site:
  
-![UserFlow](images/userFlow.jpg)
+![UserFlow](images/userflow.jpg)
  
 Os processos do usuário são indicados pelas setas numeradas. Abaixo a explicação de cada processo:
  

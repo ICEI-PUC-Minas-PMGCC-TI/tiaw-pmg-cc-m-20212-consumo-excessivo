@@ -17,7 +17,7 @@ Para atender as dores de nossos usuários, a plataforma visa direcioná-los com 
  
 ## User Flow
  
-![UserFlow](images/userFlow.jpg)
+![UserFlow](images/userflow.jpg)
  
 ## Wireframes
  
