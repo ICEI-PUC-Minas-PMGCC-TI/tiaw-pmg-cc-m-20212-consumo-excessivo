@@ -9,8 +9,6 @@ A oniomania se trata de um transtorno compulsivo dado pela compra incessante, se
 * Dã Petronilho Gonçalves
 * Daniel Valadares de Souza Felix
 * Eduardo Araujo Pereira
-* Joao Victor de Barros Scarmato Reis
-* Wellington Rocha Filho
 
 ## Professores responsáveis
 

@@ -1,20 +1,18 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`Oniomania - Consumo Excessivo`  
 
-Trabalho Interdisciplinar - Aplicacões Web
+Trabalho Interdisciplinar - Aplicações Web
 
-`CURSO`
+`Ciências da Computação`
 
-`SEMESTRE`
-
+`2021-2`
 ## Participantes
 
 Os membros do grupo são: 
-- Fulano da Silva
-- Ciclano Albuquerque
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
-
+* Bruno Melo Couto
+* Dã Petronilho Gonçalves
+* Daniel Valadares de Souza Felix
+* Eduardo Araujo Pereira
 # Estrutura do Documento
 
 1. [Contexto](1-Contexto.md)

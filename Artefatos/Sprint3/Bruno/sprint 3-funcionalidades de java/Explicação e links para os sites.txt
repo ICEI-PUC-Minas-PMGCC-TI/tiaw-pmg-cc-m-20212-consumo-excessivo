@@ -1,0 +1,20 @@
+Funcionalidade especifica com Javascript
+
+Dados Gerais
+
+Projeto: Oniomania-Consumo Excessivo/ Funcionalidade especifica com Javascript
+
+Aluno: Bruno Mello Couto
+
+Título do Artefato: Site grupo Omniomania/ Funcionalidade especifica com Javascript
+
+Descrição: O Site e si é Auto-explicativo.
+ Dentre as funcionalidades está o dinamismo dentro do arquivo, funcionalidades da
+pagina de login, bloqueio para senhas/logins invalidos, show-or-hide funcionais, menu mobile totalmente funcio-
+nal,funcionalidades na pagina sobre nós
+
+
+Link alternativo na Internet (URL): https://sprint-3.brunomello3.repl.co
+
+
+

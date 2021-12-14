@@ -1,0 +1,18 @@
+TEMPLATE
+
+Dados Gerais
+
+Projeto: Oniomania-Consumo Excessivo/ Template
+
+Aluno: Bruno Mello Couto
+
+Título do Artefato: Site grupo Omniomania/ Template
+
+Descrição: O Site e si é Auto-explicativo. Abaixo haverá 2 links, um para o site com o Javascript e um
+somente com a presença de HTML e CSS como pedido. tambem há uma pasta com os arquivos de ambos.
+
+Link alternativo na Internet (URL): 
+
+site com o java: https://sprint2-com-javascript.brunomello3.repl.co/
+
+site sem o java(somente html e css): https://sprint2-sem-Java.brunomello3.repl.co

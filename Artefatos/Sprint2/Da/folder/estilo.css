@@ -1,0 +1,18 @@
+
+    body{
+        max-width: 1200px;
+        padding: 0px;
+        margin: 0px auto !important;
+        
+    }
+    .caixa{
+        background-color: #ddd;
+        align-content: center;
+        padding: 20px;
+        border: 15px;
+        border-radius: 10px;
+        margin-bottom: 10px;
+    }
+    
+    
+

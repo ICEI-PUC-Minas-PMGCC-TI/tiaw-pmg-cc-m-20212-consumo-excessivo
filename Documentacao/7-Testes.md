@@ -1,35 +1,13 @@
 # Avaliação da Aplicação
-
-<span style="color:red">Pré-requisitos: <a href="6-Implementação.md"> Projeto da Solução</a></span>
-
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
-
+ 
+Todas as funcionalidades criadas pelos artefatos, demonstram serem funcionais, e na mesclagem dos artefatos, foi possível encontrar um estado de harmonia entre os artefatos para que não gerasse conflitos.
 ## Plano de Testes
-
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-
+ 
+Juntamente a produção de cada artefato, um plano de teste individual para cada funcionalidade foi criado, os artefatos, juntamente com seus planos de teste podem ser encontrados em: https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/tree/master/Artefatos
+ 
 ## Ferramentas de Testes (Opcional)
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
-
+ 
+Para o teste, foi utilizado a ferramenta de hospedagem do [Repl.it](https://replit.com/~). Utilizando o link gerado pela ferramenta que da acesso a hospedagem de nosso projeto, o seguinte link: https://TIAWoniomania-consumo-excessivo.danielvaladares.repl.co
 ## Avaliação
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+ 
+Para um protótipo o site em seu estado para a entrega do Sprint 4 está perfeito. Para melhores implementações, visando alcançar suprir a dor gerada pela Oniomania, o site ainda necessita de alguns artefatos extras, e mais algumas fases de testes. Podendo assim ser publicado para larga escala, e auxiliar a resolver o problema que afeta 30% dos consumidores no país, a oniomania.

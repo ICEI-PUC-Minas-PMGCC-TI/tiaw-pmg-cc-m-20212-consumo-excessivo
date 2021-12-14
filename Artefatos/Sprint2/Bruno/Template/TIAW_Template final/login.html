@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>Relatorio</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="estilos.css">
+    <script defer src="login.js"></script>
+
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+</head>
+
+<body style="background-color: rgb(177, 176, 176);">
+    <!--Header-->
+    <div class="navbar-more-overlay"></div>
+	<nav class="navbar navbar-inverse navbar-fixed-top animate">
+		<div class="container navbar-more visible-xs">
+			<form class="navbar-form navbar-left" role="search">
+				<div class="form-group">
+					<div class="input-group">
+						<li>
+                            <a class="menu-link" href="login.html">
+                                <span class="menu-icon fa fa-picture-o"></span>
+                                Login
+                            </a>
+                        </li>
+					</div>
+				</div>
+			</form>
+			<ul class="nav navbar-nav">
+				<li>
+					<a class="menu-link" href="index.html">
+						<span class="menu-icon fa fa-picture-o"></span>
+						Introduçâo
+					</a>
+				</li>
+				<li>
+					<a class="menu-link" href="Relatorio.html">
+						<span class="menu-icon fa fa-bell-o"></span>
+						Relatório
+					</a>
+				</li>
+				<li>
+					<a class="menu-link" href="artigo.html">
+						<span class="menu-icon fa fa-picture-o"></span>
+						Artigos
+					</a>
+				</li>
+				<li>
+					<a class="menu-link" href="coletadados.html">
+						<span class="menu-icon fa fa-bell-o"></span>
+						Coleta de dados
+					</a>
+				</li>
+				
+			</ul>
+		</div>
+		<div class="container">
+			<div class="navbar-header hidden-xs">
+				<a class="navbar-brand" href="#"></a>
+			</div>
+
+			<ul class="nav navbar-nav navbar-right mobile-bar">
+				<li>
+					<a class="menu-link" href="index.html">
+						
+						introdução
+					</a>
+				</li>
+				<li>
+					<a class="menu-link" href="Relatorio.html">
+						
+						<span class="hidden-xs">Relatório</span>
+						<span class="visible-xs">Relatório</span>
+					</a>
+				</li>
+				<li class="hidden-xs">
+					<a class="menu-link" href="artigo.html">
+						
+						Artigos
+					</a>
+				</li>
+                
+				<li>
+					<a class="menu-link" href="artigo.html">
+						
+						Sobre Nós
+					</a>
+				</li>
+				<li class="hidden-xs">
+					<a class="menu-link" href="coletadados.html">
+						
+						Coleta de dados
+					</a>
+				</li>
+                <li class="hidden-xs">
+					<a class="menu-link" href="login.html" style="font-size: x-large; color: black;">
+						
+						<button>Login</button>
+					</a>
+				</li>
+				<li>
+					<a class="menu-link" href="coletadados.html">
+											
+						
+						<span class="visible-xs">Dados</span>
+					</a>
+                    
+				</li>
+                <li>
+					<a class="menu-link" href="about.html">
+											
+						
+						<span class="visible-xs">Sobre Nós</span>
+					</a>
+                    
+				</li>
+                
+                
+                
+				<li class="visible-xs">
+					<a href="#navbar-more-show" style="margin-left: 50px;">
+						<span class="menu-icon fa fa-bars"></span>
+						abrir  mais+
+					</a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+
+    </header>
+    <!--End Header-->
+
+    <!--Main-->
+    <main onload style="background-color: grey;" class="container">
+        <!--Section-->
+        <section class="row containe">
+
+            <div class="col-12 col-lg-6"
+                style=" border: 1px solid black; width: 500px; height:430px; background: white;">
+                <h1 style="margin-left: 10%;"><b>Já tenho cadastro</b></h1>
+                <input type="text" name="search" id="search" placeholder="E-mail CPF ou CNPJ" required class="i">
+                <div id="search" id='passForm' class="popup">	
+					<input id="psw" type="password" placeholder="Insira sua senha" name="psw" required class="i">
+					<button style="width: 98%; background: orange;" type="button submit" class="btn" onclick="login()">Login</button>
+				</div>
+                <a class="menu-link" href="usuario.html" style="visibility: hidden"> 
+                <button id="user" style="width: 98%; background: orange;" type="button">Entrar nas opções de usuario</button></a>
+            </div>
+
+            <div class="col-12 col-lg-6"
+                style=" border: 1px solid black; width: 500px; height:430px; background: white;">
+                <h2 style="margin-left: 10%;"><b>Quero me cadastrar</b></h2>
+                <input type="text" name="search" id="search" placeholder="E-mail" required class="i">
+				<div id="search" id='passForm' class="popup" style="visibility: visible">	
+					<input id="psw" type="password" placeholder="Crie sua senha" name="psw" required class="i">
+				</div>
+				<div id="search" id='passForm' class="popup" style="visibility: visible">	
+					<input id="psw" type="password" placeholder="Confirme sua senha" name="psw" required class="i">
+				</div>
+                <button type="submit" class="btn" style="width: 100%; background: orange;" type="button">Cadastrar</button>
+            </div>
+
+
+        </section>
+        <!--End Section-->
+         
+
+    </main>
+    <!--End Main-->
+     <!--Footer-->
+     <footer class="container-fluid footer" style="margin-top: 40px;">
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-9 col-lg-10 copy">
+                <p>Copyright 2021 - Grupo de Oniomania - Puc Minas</p>
+            </div>
+            <div class="col-12 col-sm-12 col-md-3 col-lg-2 logo">
+                <a href="about.html">Sobre Nós</a>
+            </div>
+        </div>
+    </footer>
+    <!--End Footer-->
+</body>
