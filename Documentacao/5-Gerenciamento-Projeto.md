@@ -10,10 +10,13 @@ Nas semanas seguintes demos progresso na continuação do processo, começamos c
  
 Na sexta semana dividimos o grupo em duas partes, onde os seguintes membros ficaram responsáveis pela apresentação e criação do wireframe:
  
->1- Bruno Mello(wireframe)
->2- Dã (wireframe)
->3- Daniel (apresentação)
->4- Eduardo (apresentação)
+>1 - Bruno Mello(wireframe)
+>
+>2 - Dã (wireframe)
+>
+>3 - Daniel (apresentação)
+>
+>4 - Eduardo (apresentação)
  
 Para o Sprint 2, mantivemos a mesma quantidade de reuniões, duas por semana, dispostas na terça e na quinta, sempre às 14:00 horas. Nesse sprint, deveríamos produzir alguns artefatos para o site, de critério essencial para o funcionamento do site. Seguindo as orientações dadas pela tabela abaixo:
  
@@ -21,26 +24,32 @@ Para o Sprint 2, mantivemos a mesma quantidade de reuniões, duas por semana, di
  
 Todos se organizaram individualmente para fazerem sua própria entrega, de acordo com os artefatos selecionados abaixo:
  
->1- Bruno Mello (Artefato de Template)
->2- Dã (Cadastro de Entradas e Saídas)
->3- Daniel (Funcionalidade JavaScript - Bloqueio de informações mediante a falta de login)
->4- Eduardo (Funcionalidade de Login do Sistema)
+>1 - Bruno Mello (Artefato de Template)
+>
+>2 - Dã (Cadastro de Entradas e Saídas)
+>
+>3 - Daniel (Funcionalidade JavaScript - Bloqueio de informações mediante a falta de login)
+>
+>4 - Eduardo (Funcionalidade de Login do Sistema)
  
 Para o Sprint 3, foi utilizado o mesmo plano de organização do Sprint 2. Duas reuniões por semana, e organização individual mediante as próprias pendências. As entregas dos artefatos dessa Sprint são compartilhadas com os artefatos para escolha do sprint 2, sendo os seguintes selecionados:
  
->1- Bruno Mello (Funcionalidade JavaScript - Alteração de conteúdo recomendado mediante a mudança de alguma opção)
->2- Dã (Funcionalidade de edição do Perfil do Usuário)
->3- Daniel (Funcionalidade JavaScript - Bloqueio de envio de formulário, mediante a dados invalidos)
->4- Eduardo (Funcionalidade de Apresentação de Informação - Gráficos)
+>1 - Bruno Mello (Funcionalidade JavaScript - Alteração de conteúdo recomendado mediante a mudança de alguma opção)
+>
+>2 - Dã (Funcionalidade de edição do Perfil do Usuário)
+>
+>3 - Daniel (Funcionalidade JavaScript - Bloqueio de envio de formulário, mediante a dados invalidos)
+>
+>4 - Eduardo (Funcionalidade de Apresentação de Informação - Gráficos)
  
 Já o Sprint 4, foi uma tarefa a qual deveríamos juntar os artefatos produzidos para gerar o primeiro modelo prototipo do site. Essa tarefa exigiu grande trabalho em equipe, e comprometimento de todos os membros. Para facilitar o processo, o grupo foi dividido em funções. Além da entrega do protótipo, ainda seria necessário gravar, editar e postar um vídeo, e montar uma apresentação além de apresentá-la.
  
 Devido a grande demanda o grupo foi dividido em responsabilidade quanto às entregas, de forma estratégica e inteligente considerando as habilidades de cada indivíduo presente. Abaixo as responsabilidades de cada membro.
  
->1- Bruno Mello (Juntar artefatos no protótipo final, editar/postar o vídeo de apresentação e auxiliar na atualização de documentos)
->2- Dã (Preencher conteúdos placeholder do site com conteúdo derradeiro e auxiliar a juntar artefatos no protótipo final)
->3- Daniel (Atualizar o Github, preparar/apresentar o powerpoint do projeto, marcar as reuniões, revisar o código e gravar o vídeo de apresentação)
->4- Eduardo (Juntar artefatos no protótipo final)
+>1 - Bruno Mello (Juntar artefatos no protótipo final, editar/postar o vídeo de apresentação e auxiliar na atualização de documentos)
+>2 - Dã (Preencher conteúdos placeholder do site com conteúdo derradeiro e auxiliar a juntar artefatos no protótipo final)
+>3 - Daniel (Atualizar o Github, preparar/apresentar o powerpoint do projeto, marcar as reuniões, revisar o código e gravar o vídeo de apresentação)
+>4 - Eduardo (Juntar artefatos no protótipo final)
  
 ## Processo
  
