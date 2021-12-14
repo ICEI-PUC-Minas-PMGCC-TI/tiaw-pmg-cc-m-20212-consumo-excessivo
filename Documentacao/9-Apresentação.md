@@ -20,7 +20,7 @@ Na primeira apresentação do projeto no Sprint 1, foi feito um slide tendo em v
 - Wireframe (Formulação da Estrutura);
 - Considerações Finais (Conclusão).
  
-O slide, o qual mostra a ordem da apresentação, pode ser encontrado como arquivo PDF no seguinte link: [Apresentação Sprint 1](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/blob/master/Apresentação/sprint1.pdf)
+O slide, o qual mostra a ordem da apresentação, pode ser encontrado como arquivo PDF no seguinte link: [Apresentação Sprint 1](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/blob/master/Apresentacao/sprint1.pdf)
  
 Depois dessa apresentação apenas no Sprint 4 houve outra apresentação. Apresentação essa que se dá por dois elementos, um sendo um vídeo, e outro uma apresentação de slides. Abaixo a organização dos slides:
  
@@ -33,6 +33,6 @@ Depois dessa apresentação apenas no Sprint 4 houve outra apresentação. Apres
 - Arquitetura de Solução (User flow);
 - Software em Prática (Demonstração conclusiva).
  
-O slide, o qual mostra a ordem da apresentação, pode ser encontrado como arquivo PDF no seguinte link: [Apresentação Sprint 4](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/blob/master/Apresentação/sprint4.pdf)
+O slide, o qual mostra a ordem da apresentação, pode ser encontrado como arquivo PDF no seguinte link: [Apresentação Sprint 4](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/blob/master/Apresentacao/sprint4.pdf)
  
 Para visualizar o vídeo, aqui o link de acesso: [Vídeo de divulgação](https://youtu.be/I0FQADzFLFQ)
