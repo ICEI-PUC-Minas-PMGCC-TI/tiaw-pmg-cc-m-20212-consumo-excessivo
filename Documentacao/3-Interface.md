@@ -17,10 +17,10 @@ Para atender as dores de nossos usuários, a plataforma visa direcioná-los com 
  
 ## User Flow
  
-![UserFlow](images/userflow.jpg)
+![UserFlow](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/blob/2d386ad4edf49dfeaefe5ee2e557b75cce5e33fa/Documentacao/images/userflow.jpg)
  
 ## Wireframes
  
 O wireframe do projeto foi desenvolvido pelo [Figma](https://www.figma.com), e pode ser visualizado pela imagem abaixo:
  
-![WireFrame](images/wireframe.jpg)
+![WireFrame](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/blob/master/Documentacao/images/userflow.jpg)

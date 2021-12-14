@@ -14,7 +14,7 @@ Para montagem do planejamento e dos artefatos, wireframes, fluxos do site e orga
  
 A imagem abaixo mostra o processo de fluxo do usuário para chegar na solução visada pelo site:
  
-![UserFlow](images/userflow.jpg)
+![UserFlow](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-consumo-excessivo/blob/2d386ad4edf49dfeaefe5ee2e557b75cce5e33fa/Documentacao/images/userflow.jpg)
  
 Os processos do usuário são indicados pelas setas numeradas. Abaixo a explicação de cada processo:
  
